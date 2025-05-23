@@ -74,5 +74,5 @@ Obtain your `EDGEONE_API_TOKEN` from EdgeOne Pages by visiting: https://edgeone.
 
 # References
 
-- EdgeOne Pages Documentation: https://edgeone.ai/docs/pages
+- EdgeOne Pages Documentation: https://edgeone.ai/document/160427672992178176
 - GitHub Actions Documentation: https://docs.github.com/en/actions

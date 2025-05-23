@@ -74,5 +74,5 @@ jobs:
 
 # 参考资料
 
-- EdgeOne Pages 文档：https://edgeone.ai/docs/pages
+- EdgeOne Pages 文档：https://edgeone.ai/document/160427672992178176
 - GitHub Actions 文档：https://docs.github.com/zh/actions 
